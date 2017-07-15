@@ -1,0 +1,461 @@
+*{
+	margin:0;
+	padding: 0;
+}
+.logcon > img {
+    margin-left: 59px;
+    margin-top: 16px;
+    width: 100px;
+}
+.logcon{
+	width: 300px;
+}
+.reg{
+	float: right;
+	 margin-top: -95px;
+}
+.reg > a {
+    color: #61C1DE;
+    display: inline-block;
+    margin-left: 39px;
+}
+.col-md-6.himg > img {
+    width: 737px;
+} 
+s
+.himg {
+    height: 400px;
+    width: 100%;
+}
+.himg i {
+    color: #B8A185;
+    font-size: 21px;
+    margin-left: 228px;
+    margin-top: 213px;
+    position: absolute;
+    text-shadow: -2px 3px 4px #90A0C2;
+}
+
+.himg h3 {
+    font-size: 29px;
+     margin-left: 119px;
+    margin-top: 243px;
+    position: absolute;
+    color: #1A398A;
+    font-family: impact;
+}
+.himg button {
+    margin-left: 260px;
+    margin-top: 287px;
+    position: absolute;
+}
+.sideimg {
+    width: 222px;
+}
+.sideimg2 {
+    width: 288px;
+}
+.sideimg > img {
+    margin-left: 66px;
+    width: 152px;
+}
+.side {
+    float: right;
+    margin-top: -155px;
+    width: 400px;
+}
+.sideimg2 > img {
+    height: 196px;
+    margin-left: 67px;
+    width: 148px;
+}
+.discs1 {
+    background: #3ab2d6 none repeat scroll 0 0;
+    margin-top: 18px;
+}
+.discs2 {
+    margin-top: 83px;
+    background: #3ab2d6 none repeat scroll 0 0;
+}
+.banner {
+    background: #E0EDFA;
+}
+.col-md-2 img {
+    height: 120px;
+    width: 210px;
+}
+.col-md-2 > h3 {
+	margin-top: 50px;
+    color: #CAB092;
+}
+.chest {
+    background: #272740;
+}
+.lbody {
+    border: 2px solid #CAB092;
+    border-radius: 50%;
+    height: 249px;
+    margin-top: 74px;
+    width: 249px;
+    margin-left: 166px;
+    position: relative;
+    box-shadow: 22px 10px 13px #CAB092;
+}
+.icon {
+    color: #CAB092;
+    font-size: 74px;
+    margin-left: -36px;
+    margin-top: 41px;
+    position: absolute;
+}
+.lbody.text-center > p {
+    font-size: 22px;
+    margin-top: 153px;
+}
+.lbody.text-center > p {
+    font-size: 18px;
+    margin-top: 153px;
+    color: white;
+}
+
+.space {
+    background: #BFBFC7;
+    height: 100px;
+}
+
+.hspace {
+    background: #1A398A;
+    height: 50px;
+}
+.row.text-center.foot{
+    color: #CAB092;
+}
+.footer {
+    background: #272740;
+    margin-top: 3px;
+      height: 200px;
+}
+.fmarg{
+	margin-top: 35px;
+}
+
+
+
+.formheaad img {
+    height: 86px;
+    margin-top: 15px;
+}
+.formheaad h4 {
+    color: #66737f;
+    font-size: 24px;
+    margin-top: 45px;
+}
+.formheaad button {
+    margin-top: 40px;
+}
+.formheaad {
+    background: #1a398a none repeat scroll 0 0;
+    height: 112px;
+}
+.formhead h4:hover{
+	color: #E6E6E6;
+}
+.col-md-6.right {
+    margin-top: 91px;
+     border-left: 2px solid #1a398a;
+     margin-bottom: 55px;
+}
+.right form {
+    margin-left: 81px;
+      margin-top: 26px;
+}
+.col-md-6.left > img {
+    margin-top: 116px;
+    width: 319px;
+    margin-left: 81px;
+}
+.left p {
+    font-size: 17px;
+    margin-top: 45px;
+    text-align: center;
+}
+.lowerfoot {
+    background: #272740 none repeat scroll 0 0;
+    height: 50px;
+}
+.right button {
+    margin-left: 55px;
+    margin-top: 20px;
+}
+.col-md-7.min {
+    background: #dbeaf9 none repeat scroll 0 0;
+    margin-top: 40px;
+    padding: 38px;
+     margin-bottom: 40px;
+}
+.mainbody {
+    background: #abd4b9 none repeat scroll 0 0;
+    margin-bottom: -61px;
+}
+.col-md-7.minlog {
+    background: #dbeaf9 none repeat scroll 0 0;
+    height: 365px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 106px;
+}
+.minlog button {
+    margin-top: 35px;
+}
+.zoomInUp {
+    animation-name: zoomInUp;
+    color: #1a398a;
+    margin-bottom: 174px;
+    margin-top: 171px;
+    text-align: center;
+}
+.mnbody {
+    margin-bottom: -17px;
+    margin-top: 29px;
+}
+.loool button {
+    margin-top: 36px;
+}
+.dhur p {
+    color: #1a398a;
+    font-size: 19px;
+    margin-top: -51px;
+    text-align: center;
+}
+.formbody a {
+    margin-left: 54px;
+}
+.row.marge {
+    margin-top: 30px;
+}
+.row.hudai {
+    margin-top: 30px;
+}
+
+.logcon > img {
+    margin-left: 59px;
+    margin-top: 10px;
+    width: 48px;
+}
+.hspace {
+    background: #272740 none repeat scroll 0 0;
+    height: 86px;
+}
+.reg p {
+    color: #e6caa5;
+    font-size: 11px;
+    margin-top: 61px;
+}
+.item {
+    background: #d9be9d none repeat scroll 0 0;
+    height: 222px;
+}
+.col-md-5.bannerright {
+    margin-top: 70px;
+}
+.side {
+    margin-left: 49px;
+    margin-top: -155px;
+    width: 400px;
+}
+.item.active > img {
+    width: 171px;
+}
+.carousel-indicators {
+    bottom: 30px;
+    margin-left: -72px;
+}
+.btn-primary {
+    background-color: #272740;
+    border-color: #2e6da4;
+    color: #d9be9d;
+}
+.carousel.slide {
+    box-shadow: -11px 18px 15px #272740;
+}
+.header > img {
+    height: 250px;
+    margin-top: 63px;
+}
+.himg h3 {
+    color: #272740;
+    font-size: 29px;
+    margin-left: 382px;
+    margin-top: -283px;
+    position: absolute;
+}
+.himg i {
+    color: #B8A185;
+    font-size: 21px;
+    margin-left: 483px;
+    margin-top: -220px;
+    position: absolute;
+}
+.navbar {
+    background: #272740 none repeat scroll 0 0;
+    margin-top: -12px;
+}
+.a.dropbtn {
+    background-color: #cab092;
+    border: medium none;
+    color: #272740;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 16px;
+}
+
+.btn {
+    background: #cab092 none repeat scroll 0 0;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #26263f;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857;
+    margin-bottom: 18px;
+    margin-left: -7px;
+    margin-top: -34px;
+    padding: 6px 12px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+.carousel-caption .btn {
+    margin-top: 6px;
+    text-shadow: none;
+}
+.banner {
+    background: #bfbfc7 none repeat scroll 0 0;
+}
+.item.active.img2 > img {
+    height: 223px;
+    width: 156px;
+}
+.body{
+    background-image: url(images/galaxy.jpg);
+    background-attachment: fixed;
+    height: 387px;
+    margin-top: -22px;
+}
+.formheaad {
+    background: #272740 none repeat scroll 0 0;
+    height: 112px;
+}
+.formheaad h4 {
+    color: #c7ac8d;
+    font-family: impact;
+    font-size: 24px;
+    margin-top: 45px;
+}
+.lowerfoot {
+    background: #272740 none repeat scroll 0 0;
+    height: 50px;
+}
+.formbody a {
+    margin-left: 54px;
+    margin-top: 15px;
+}
+.col-md-6.right {
+    background: #272740 none repeat scroll 0 0;
+    border-left: 2px solid #1a398a;
+    color: #e1c7a6;
+    margin-top: 91px;
+}
+.formbody {
+    background: #bfbfc7 none repeat scroll 0 0;
+}
+button, input, select, textarea {
+    color: black;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+.mainbody {
+    background-attachment: fixed;
+    background-image: url("images/galaxy.jpg");
+    margin-bottom: -61px;
+}
+.col-md-7.min {
+    background: #272740 none repeat scroll 0 0;
+    color: #c7ac8d;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    padding: 38px;
+}
+.col-md-7.minlog {
+    background: #272740 none repeat scroll 0 0;
+    color: #c7ac8d;
+    height: 365px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 106px;
+}
+.container.back {
+    background: #bfbfc7 none repeat scroll 0 0;
+}
+.carousel.slide {
+    box-shadow: -8px 12px 11px #7d8ca9;
+}
+.container.show {
+    background: fixed;
+    background-image: url("images/galaxy.jpg");
+    margin-top: 48px;
+    height: 337px;
+}
+.show h3 {
+    color: #c7ac8d;
+    margin-top: 48px;
+}
+.show p {
+    color: white;
+    margin-top: -142px;
+}
+.fmarg img {
+    height: 45px;
+    padding: 3px;
+    vertical-align: middle;
+}
+.lowerfoot.see {
+    margin-top: 61px;
+}
+.dhur iframe {
+  margin-bottom: 29px;
+    margin-left: 112px;
+    margin-top: 29px;
+}
+.pcon p {
+    font-size: 16px;
+    text-align: center;
+}
+.lowerfoot.see {
+    height: 77px;
+    margin-top: 61px;
+}
+.hmenu {
+    height: 79px;
+    margin-bottom: 0;
+}
+.hmenu li{
+        display: inline-block;
+    margin-top: 50px;
+    padding: 0 0 0 65px;
+
+}
+.hmenu ul {
+    margin-left: 245px;
+}
+.col-md-2 {
+    overflow: hidden;
+    width: 16.6667%;
+}

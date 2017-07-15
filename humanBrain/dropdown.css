@@ -1,0 +1,106 @@
+    .reg {
+    margin-right: 65px;
+}
+.col-md-7.col-sm-12.bannerleft {
+    margin-top: 21px;
+    height: 330px;
+}
+.himg > p {
+    margin-top: 91px;
+}
+.glyphicon.glyphicon-chevron-left {
+    margin-top: 159px;
+}
+.glyphicon.glyphicon-chevron-right {
+    margin-top: 159px;
+}
+/*    Mobile Layout: 320px.
+    Inherits styles from: Default Layout.
+*/
+
+@media only screen and (max-width: 767px) {
+
+.and a {
+  padding: 22px 2px;
+}
+.lbody {
+  border: 2px solid #cab092;
+  border-radius: 50%;
+  box-shadow: 11px 11px 12px #cab092;
+  height: 150px;
+  margin-left: 166px;
+  margin-top: 74px;
+  position: relative;
+  width: 150px;
+}
+.body {
+  background-attachment: fixed;
+  background-image: url("images/galaxy.jpg");
+  height: 535px;
+  margin-top: -22px;
+}
+.col-md-2 {
+  overflow: hidden;
+  width: 16.6667%;
+  display: inline;
+}
+.row.text-center.padcon {
+  padding-bottom: 42px;
+}
+.footer {
+  height: 369px;
+}
+.reg > a {
+  color: #61c1de;
+  display: inline-block;
+  margin-left: 55px;
+  margin-right: 12px;
+}
+.header > img {
+  height: 114px;
+  margin-top: 36px;
+}
+.himg h3 {
+  color: #272740;
+  font-size: 29px;
+  margin-left: 193px;
+  margin-top: -145px;
+  position: absolute;
+}
+.himg i {
+  color: #b8a185;
+  font-size: 21px;
+  margin-left: 180px;
+  margin-top: -1px;
+  position: absolute;
+}
+.side {
+  margin-left: 49px;
+  margin-top: -155px;
+  width: 219px;
+}
+.side.text-center.carousel-caption > h4 {
+  margin-bottom: 81px;
+}
+.hmenu li {
+  display: inline-block;
+  margin-top: 36px;
+  padding: 0 0 0 6px;
+}
+.hmenu ul {
+  margin-left: 59px;
+  margin-top: 11px;
+}
+.and a {
+  padding: 7px 2px;
+}
+.navbar {
+  height: 131px;
+}
+.col-md-6.discon {
+  margin-left: -88px;
+}
+
+
+
+}

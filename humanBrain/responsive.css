@@ -1,0 +1,204 @@
+/*		Default Layout: 992px.*/
+
+
+
+/*		Tablet Layout: 768px.
+		Inherits styles from: Default Layout.
+*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	
+    .reg {
+    margin-right: 65px;
+}
+.col-md-7.col-sm-12.bannerleft {
+    margin-top: 21px;
+    height: 330px;
+}
+.himg > p {
+    margin-top: 91px;
+}
+.col-md-5.bannerright {
+  margin-top: -76px;
+}
+.hmenu li {
+    display: inline-block;
+    margin-top: 50px;
+    padding: 0 0 0 22px;
+}
+.hmenu ul {
+    margin-left: 189px;
+}
+.banner ol {
+  margin-left: -195px;
+}
+.body {
+  background-attachment: fixed;
+  background-image: url("images/galaxy.jpg");
+  height: 694px;
+  margin-top: -22px;
+}
+.col-md-2 {
+  overflow: hidden;
+  width: 16.6667%;
+  display: inline;
+}
+.footer {
+  background: #272740 none repeat scroll 0 0;
+  height: 305px;
+  margin-top: -32px;
+}
+.formheaad h4 {
+  color: #c7ac8d;
+  font-family: impact;
+  font-size: 24px;
+  margin-top: -63px;
+}
+.formheaad button {
+  margin-left: 565px;
+  margin-top: -64px;
+}
+.carousel.slide.flowcon {
+  height: 234px;
+  margin-top: 428px;
+}
+.row.text-center.padcon {
+  padding-bottom: 42px;
+}
+.dhur iframe {
+  margin-bottom: 29px;
+  margin-left: 0;
+  margin-top: 29px;
+  height: 408px;
+  width: 718px;
+  display: inline;
+}
+.col-md-6.leftp > img {
+  height: 200px;
+}
+.leftp p {
+  margin-left: 366px;
+  margin-top: -124px;
+}
+.right form {
+  margin-left: 81px;
+  padding-top: 42px;
+}
+.row.back-fixed {
+  display: inline;
+}
+.banner ol {
+  margin-left: -297px;
+}
+
+
+
+
+}
+
+
+
+/*		Wide Mobile Layout: 480px.
+		Inherits styles from: Default Layout, Mobile Layout.
+*/
+
+@media only screen and (max-width: 767px) {
+
+.side {
+  margin-left: 49px;
+  margin-top: -155px;
+  width: 401px;
+}
+   .reg {
+  float: right;
+  margin-right: 33px;
+  margin-top: -95px;
+}
+.header > img {
+  height: 134px;
+  margin-top: 33px;
+}
+.himg {
+  margin-left: -128px;
+  margin-top: 149px;
+}
+.himg i {
+  color: #b8a185;
+  font-size: 21px;
+  margin-left: 390px;
+  margin-top: -201px;
+  position: absolute;
+}
+.carousel-inner {
+  margin-top: -110px;
+}
+.side.text-center.carousel-caption > p {
+  margin-top: -15px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.banner ol {
+  margin-bottom: -11px;
+  margin-left: -47px;
+}
+.navbar {
+  height: 110px;
+}
+.hmenu {
+  height: 149px;
+  margin-bottom: 0;
+}
+.hmenu ul {
+  margin-left: 2px;
+  margin-top: 5px;
+}
+.hmenu li {
+  display: inline-block;
+  margin-top: 50px;
+  padding: 0 0 0 17px;
+}
+.and a {
+  padding: 22px 2px;
+}
+.lbody {
+  border: 2px solid #cab092;
+  border-radius: 50%;
+  box-shadow: 11px 11px 12px #cab092;
+  height: 150px;
+  margin-left: 166px;
+  margin-top: 74px;
+  position: relative;
+  width: 150px;
+}
+.body {
+  background-attachment: fixed;
+  background-image: url("images/galaxy.jpg");
+  height: 535px;
+  margin-top: -22px;
+}
+.col-md-2 {
+  overflow: hidden;
+  width: 16.6667%;
+  display: inline;
+}
+.row.text-center.padcon {
+  padding-bottom: 42px;
+}
+.footer {
+  height: 362px;
+}
+.col-md-6.text-center {
+  margin-top: -104px;
+}
+.formheaad button {
+  margin-left: 370px;
+  margin-top: -47px;
+}
+.right form {
+  margin-left: 81px;
+  margin-top: 26px;
+  padding-top: 29px;
+}
+
+
+}
