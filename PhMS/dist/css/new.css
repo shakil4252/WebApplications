@@ -1,0 +1,70 @@
+.slipinput h3 {
+  color: #3399ff;
+  margin-left: 452px;
+  margin-bottom: 22px;
+}
+.slipinput h4 {
+  color: #3399ff;
+  margin-bottom: 21px;
+  margin-left: 71px;
+  margin-top: 33px;
+}
+.col-md-12.slipinput {
+  background: #f0f0f0 none repeat scroll 0 0;
+}
+.img-circle {
+  margin-left: 63px;
+}
+.profile-user-img.img-responsive.img-circle {
+  height: 99px;
+  margin-left: 471px;
+  width: 153px;
+}
+.bold {
+  font-size: 13px;
+}
+.col-md-12.slipinput input {
+  width: 221px;
+  margin-right: 10px;
+}
+.slippay {
+  margin-left: 40px;
+}
+.slipdis {
+  margin-left: 21px;
+}
+.slipnamq {
+  margin-right: 7px;
+}
+.phform {
+  margin-left: 264px;
+  width: 741px;
+  margin-top: 87px;
+  margin-bottom: 40px;
+  background: #ECF0F5;
+}
+.phform button {
+  margin-left: 292px;
+  padding: 1px 58px;
+}
+.phform label {
+  margin-left: 36px;
+}
+.formreg {
+  margin-left: 329px;
+}
+.phform select {
+  margin-bottom: 29px;
+  margin-left: 12px;
+  margin-top: 28px;
+  padding: 1px 32px;
+}
+.text-center.logtext {
+  margin-top: 33px;
+}
+.table-bordered {
+  border: 2px solid black;
+}
+.table.table-bordered.rowBorder tr {
+  border: 2px solid #535353;
+}
